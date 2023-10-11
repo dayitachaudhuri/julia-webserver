@@ -40,14 +40,18 @@ hi() = """
     <body>
     <div>
         <h1>Hi</h1>
-        <p>This is a response from a <a href="https://julialang.org">Julia</a>-powered webserver.</p>
+        <p>This is a response from a Julia powered webserver.
         <p>On the server, it is currently $(now()).</p>
 
         <p>
-            <a href="https://github.com/rikhuijzer/julia-webserver">
+            <a href="https://github.com/dayitachaudhuri/julia-webserver">
                 Click here for the code
             </a>
         </p>
+        
+        <p>This is temporary hosted web page for Cloud Computing Course.</p>
+        <p>20UCS040 Dayita Chaudhuri</p>
+
     </div>
     </body>
     </html>
